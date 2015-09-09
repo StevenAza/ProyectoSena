@@ -1,0 +1,234 @@
+#div{
+position: absolute;
+right: 500px;
+top:110px;
+background-color: #c3c3c3;
+    width: 380px;
+    height: 400px;
+}
+p{
+    font-size: 18px;
+    font-family: Century Gothic;
+    
+}
+h1,h3,h2,h4,h6{
+    font-family: Century Gothic;
+}
+#boton{
+    background:#c3c3c3;
+    color:#000000;
+    font-size: 28px;
+    border:0px solid;
+    font-family: Century Gothic;
+    border-radius: 3px;
+}
+
+select, option{
+    font-family:  Rockwell,Century Gothic;
+    font-size: 18px;
+    
+}
+#n{
+   font-family:  Century Gothic;
+    font-size: 18px; 
+}
+
+#div:hover{
+    background:#5ccbb1;
+}
+#boton:hover{
+    background: #2e5769;
+    color:#fafafa;
+    border:0px solid;
+    font-size: 26px;
+    font-family: Century Gothic;
+    border-radius: 5px;
+}
+#text{
+    font-family:Rockwell,Times New Roman;
+    font-size: 18px;
+    border-radius: 7px;
+}
+#admin{
+    position: absolute;
+right: 900px;
+top:60px;
+background-color: #c3c3c3;
+    width: 380px;
+    height: 600px;
+}
+#admin:hover{
+     background:#5ccbb1;
+}
+#tareas{
+    position: absolute;
+right: 500px;
+top:60px;
+background-color: #c3c3c3;
+    width: 380px;
+    height: 480px;
+}
+#tareas:hover{
+    background: #d0bf3d;
+}
+#boton2{
+    background:#c3c3c3;
+    color:black;
+    font-size: 24px;
+    font-family: Century Gothic;
+      border-radius: 5px;  
+}
+#boton2:hover{
+    background: rgb(145, 64, 64);
+    color: #eaeaea;
+    border-radius: 4px;
+    border:0px solid;
+}
+body{
+    background-image: url(background-glow-gradient.jpg);
+    background-size: cover;
+}
+#e{
+    background:#d1d7d9;
+    color:black;
+    font-size: 24px;
+    font-family: Century Gothic;
+      border-radius: 5px;  
+}
+#f{
+    background:#d1d7d9;
+    color:black;
+    font-size: 24px;
+    font-family: Century Gothic;
+      border-radius: 5px;  
+}
+#g{
+    background:#d1d7d9;
+    color:black;
+    font-size: 24px;
+    font-family: Century Gothic;
+      border-radius: 5px;  
+}
+#actualizar{
+position: absolute;
+right: 100px;
+top:60px;
+background-color: #c3c3c3;
+    width: 380px;
+    height: 480px;
+}
+#actualizar:hover{
+     background:#7bd074;
+}
+
+#registroJ{
+position: absolute;
+right: 500px;
+top:10px;
+background-color: #c3c3c3;
+    width: 400px;
+    height: 980px;
+    border-radius: 30px;
+}
+#registroJ:hover{
+     background:#44B5B2;
+    border:4px;
+    border-color:  #77D5C0;
+    border-radius: 0px;
+}
+#si{
+    background: #B6F9CF;
+}
+#asign{
+    
+    position: absolute;
+    right: 700px;
+    top: 30px;
+}
+#bloque{
+    position: absolute;
+left: 700px;
+top:10px;
+background-color: #9e9f9a;
+    width: 400px;
+    height: 500px;
+    border-radius: 0px;
+}
+    
+#bloque:hover{
+    background: #58B2A3;
+    border:1px solid;
+    border-color: #B0D9A8;
+    border-radius: 30px;
+}
+
+#botonAc {
+    background: #9e9f9a;
+ 
+    border-radius: 3px;
+    font-family: Century Gothic;
+    font-size: 22px;
+    
+}
+#botonAc:hover{
+    background: #0078A4;
+   
+    border-radius: 3px;
+    font-family: Century Gothic;
+    font-size: 22px;
+    border: 2px solid;
+    border-color:  #1C94A3;
+        color : #B6F9CF;
+}
+#borrar{
+     background: #9e9f9a;
+ 
+    border-radius: 3px;
+    font-family: Century Gothic;
+    font-size: 22px;
+}
+#borrar:hover{
+    background: #8C4646;
+   
+    border-radius: 3px;
+    font-family: Century Gothic;
+    font-size: 22px;
+    border: 2px solid;
+    border-color:  #D96459;
+        color : #F2E394;
+}
+#canserbero{
+    position: absolute;
+left: 500px;
+top:10px;
+background-color: #9e9f9a;
+    width: 400px;
+    height: 500px;
+    border-radius: 0px;
+}
+    
+#canserbero:hover{
+    background: #58B2A3;
+    border:1px solid;
+    border-color: #B0D9A8;
+    border-radius: 30px;
+}
+
+#ver {
+    background: #c3c3c3;
+    border:0px solid;
+    border-radius: 3px;
+    font-family: Century Gothic;
+    font-size: 22px;
+    
+}
+#ver:hover{
+    background: #0078A4;
+   
+    border-radius: 3px;
+    font-family: Century Gothic;
+    font-size: 22px;
+    border: 2px solid;
+    border-color:  #1C94A3;
+        color : #B6F9CF;
+}

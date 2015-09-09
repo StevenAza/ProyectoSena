@@ -1,0 +1,172 @@
+
+#tabla2{
+    position: absolute;
+    top: 10px;
+    right: 400px;
+    width: inherit;
+    height: inherit;
+    
+    
+}
+table{
+border: 3px solid;
+    font-size: 18px;
+ border-spacing: 0px;   
+    background-color: #abcae3;
+    
+    
+}
+tr,td{
+border: 1px solid;
+       
+}
+td{
+    font-family: Century Gothic; 
+}
+tr{
+    font-family: Rockwell;
+}
+#panel{
+    
+    position: absolute;
+    right: 10px;
+    top:20px;
+    background: #a8acb9;
+    width: 440px;
+    height:500px;
+    border-radius: 60px;
+}
+#panel:hover{
+    border-radius: 0px;
+    background: #4695b2
+}
+#btablas{
+    border-radius: 4px;
+    border: 0px solid;
+    background:  #a8acb9;
+    font-family: Century Gothic, Arial;
+    font-size: 26px;
+    color:back;
+    
+    
+    
+}
+#btablas:hover{
+    border:4px;
+    background: #ff1e1e;
+    color:azure;
+    font-size: 25px;
+}
+#btablas1{
+    border-radius: 4px;
+    border: 0px solid;
+    background:  #a8acb9;
+    font-family: Century Gothic, Arial;
+    font-size: 26px;
+    color:back;
+    
+    
+    
+}
+#btablas1:hover{
+    border:4px;
+    background: #55f041;
+    color:#49595f;
+    font-size: 25px;
+}
+#panel2{
+    
+    position: absolute;
+    right: 450px;
+    top:10px;
+    background: #a8acb9;
+    width: 440px;
+    height:550px;
+    border-radius: 60px;
+}
+#panel2:hover{
+    border-radius: 0px;
+    background: #4695b2
+}
+#ujefe{
+    background: #a8acb9;
+    width:300px;
+    height: 700px;
+    position: absolute;
+    top:10px;
+    right:20px;
+    border-radius: 15px;
+    
+}
+#ujefe:hover{
+    background: #4695b2;
+    
+    
+    
+}
+#actualizacion{
+    position: absolute;
+    right: 450px;
+    top:10px;
+    background: #a8acb9;
+    width: 440px;
+    height:800px;
+    border-radius: 60px;
+}
+#actualizacion:hover{
+    border: 0px solid;
+    background: #4695b2;
+    border-radius: 0px;
+    
+    
+}
+#btablasa{
+    border-radius: 6px;
+    border: 0px solid;
+    background:  #a8acb9;
+    font-family: Century Gothic, Arial;
+    font-size: 26px;
+    color:back;
+    width:420px;
+    
+    
+    
+}
+#btablasa:hover{
+    border:4px;
+    background: #55f041;
+    color:#000000;
+    font-size: 25px;
+}
+#rtablas{
+    border-radius: 4px;
+    border: 0px solid;
+    background:  #a8acb9;
+    font-family: Century Gothic, Arial;
+    font-size: 26px;
+    color:back;
+    
+    
+    
+}
+#rtablas:hover{
+    border:4px;
+    background: #845a9a;
+    color:azure;
+    font-size: 25px;
+}
+#u{
+    border:0px solid;
+    border-radius: 4px;
+    background: #a8acb9;
+    font-size: 22px;
+    font-family: Century Gothic;
+    
+    
+}
+#u:hover{
+    border :3px solid;
+    background: #0078A4;
+    color:aliceblue;
+    border-color: #B6F9CF;
+}
